@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Bonjour, moi c'est Lieke Messi !
 
-<!--
-**mjblackys/mjblackys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Software Developer | Kinshasa, DR Congo**
 
-Here are some ideas to get you started:
+Je suis un développeur d'applications junior, passionné par la programmation, les technologies et la résolution de problèmes informatiques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je m'intéresse particulièrement au développement logiciel, aux bases de données, aux réseaux et à la cybersécurité.
+
+## 🛠️ Technologies & Tools
+
+- **Programming:** Java, JavaScript
+- **Web:** HTML, CSS
+- **Database:** MySQL, MariaDB, SQL
+- **Frameworks & UI:** JavaFX, Scene Builder
+- **Tools:** Git, GitHub, NetBeans, VS Code
+
+## 🚀 Projects
+
+### École001
+Application de gestion scolaire avec suivi des paiements, gestion des élèves et génération de reçus.
+
+### Personal Portfolio
+Un espace personnel pour présenter mon parcours, mes compétences et mes réalisations.
+
+## 🎯 Current Goals
+
+- Improve my software development skills.
+- Master Git and GitHub.
+- Build useful and reliable applications.
+- Explore networking and cybersecurity.
+
+## 📫 Contact
+
+- GitHub: [@mjblackys](https://github.com/mjblackys)
+
+---
+
+*Learning, building and improving every day.*
