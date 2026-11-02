@@ -17,9 +17,11 @@ Je m'intéresse particulièrement au développement logiciel, aux bases de donn�
 ## 🚀 Projects
 
 ### École001
+
 Application de gestion scolaire avec suivi des paiements, gestion des élèves et génération de reçus.
 
 ### Personal Portfolio
+
 Un espace personnel pour présenter mon parcours, mes compétences et mes réalisations.
 
 ## 🎯 Current Goals
@@ -35,4 +37,10 @@ Un espace personnel pour présenter mon parcours, mes compétences et mes réali
 
 ---
 
-*Learning, building and improving every day.*
+_Learning, building and improving every day._
+
+## 📚 Currently Learning
+
+- Git and GitHub
+- Software development best practices
+- Version control and collaboration
