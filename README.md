@@ -44,3 +44,9 @@ _Learning, building and improving every day._
 - Git and GitHub
 - Software development best practices
 - Version control and collaboration
+
+## 🌱 Future Goals
+
+- Build full-stack applications.
+- Improve my Java programming skills.
+- Learn cybersecurity and ethical hacking.
